@@ -1,0 +1,9 @@
+Não vou explicar cada função uma por uma pois foram muitas, mas a lógica basicamente foi criar
+uma struct queue* next, para guardar um valor para o próximo elemento, fazendo da propria fila uma espécie de elemento,
+dessa forma, criei uma "superfila", que seria a Fila de Filas. Para a fila de Pilhas, o que tive que fazer foi
+criar um Elemento Pilha, que guarda um ponteiro para a struct pilha e também um ponteiro para a próxima fila,
+e então mais uma superfila, mas dessa vez para pilhas, fazendo a tal Fila de Pilhas.
+E Então a mais fácil das 3, fazer a Pilha de Filas, tudo que eu tive que fazer foi definir um ponteiro de Fila
+como PilhaDeFilas, da forma typedef Queue* StackOfQueues, na qual a fila é o elemento da pilha.
+
+Para as funções em sí, não houve problemas ou muitas alterações na lógica, as alterações foram mais nos tipos dos elementos.

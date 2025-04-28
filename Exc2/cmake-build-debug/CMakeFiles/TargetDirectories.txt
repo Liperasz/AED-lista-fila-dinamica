@@ -1,0 +1,3 @@
+/home/liperasz/CLionProjects/list-queue/Exc2/cmake-build-debug/CMakeFiles/Exc2.dir
+/home/liperasz/CLionProjects/list-queue/Exc2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liperasz/CLionProjects/list-queue/Exc2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
